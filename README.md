@@ -1,5 +1,3 @@
 # hello-world
 
-Yip yip
-
-I'm anny.. I hate writing about myself.
+Yip yip - NW Programming Guild
