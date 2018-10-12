@@ -6,8 +6,8 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            string displayName = "Anny";
-            Console.WriteLine($"Hello {displayName}");
+            string displayName = "friend";
+            Console.WriteLine($"Hello {displayName}!");
         }
     }
 }
