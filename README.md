@@ -1,3 +1,3 @@
 # hello-world
 
-Yip yip - NW Programming Guild
+Programming Guild homework :)
